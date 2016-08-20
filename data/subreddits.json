@@ -1,0 +1,102 @@
+[
+  {
+    "subreddit": "/r/netsec/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/programming/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/math/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/worldnews/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/technology/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/linux/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/Economics/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/haskell/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/tech/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/DIY/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/Cooking/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/australia/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/investing/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/Physics/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/technews/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/lectures/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/arduino/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/piano/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/crypto/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/archlinux/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/personalfinance/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/DepthHub/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/Bitcoin/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/rust/",
+    "percentile": 0.15
+  },
+  {
+    "subreddit": "/r/SecurityAnalysis/",
+    "percentile": 0.15
+  }
+]

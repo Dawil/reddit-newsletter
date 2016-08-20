@@ -140,10 +140,9 @@ class NewsLetter(object):
             # send article
             p = subprocess.Popen([
                 "mailx", "-s", title, args.email
-            ])
+            ], stdin=subprocess.PIPE)
             p.communicate(body)
-            pdb.set_trace()
-            #print(["mailx", "-s", title, args.email])
+            #print(" ".join(["mailx", "-s", title, args.email]))
             # mark as sent
             self.db.mark_sent(article)
 

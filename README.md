@@ -23,3 +23,11 @@ Reddit can present its pages in JSON format. I can parse a subreddit's JSON data
 ### Workflow
 
 For now I'll make this a manually run script, probably run once daily, that'll then email all new significant articles to me.
+
+
+# USAGE
+
+```
+$ python main.py --directory data --email dave@davidgwilcox.com update_subreddits
+$ python main.py --directory data --email dave@davidgwilcox.com send_new_articles
+```
